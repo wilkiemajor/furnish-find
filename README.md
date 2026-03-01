@@ -1,3 +1,3 @@
-git remote add origin https://github.com/YOUR_USERNAME/furnish-find.git
+git remote add origin https:///Major_wilkie/furnish-find.git
 git branch -M main
 git push -u origin main
